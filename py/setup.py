@@ -33,7 +33,6 @@ setup_args = {
             binding=Binding.Exec
         )
     ],
-    'zip_safe': False
 }
 
 setup(**setup_args)
